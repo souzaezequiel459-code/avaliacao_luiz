@@ -1,0 +1,1 @@
+um array é uma estrutura de dados com tamanho fixo, onde os elementos são armazenados em posições contíguas na memória, o que permite acesso rápido por índice. Já uma lista (ou lista encadeada) é uma estrutura de dados dinâmica, onde cada elemento (nó) contém seu valor e um ponteiro para o próximo.
