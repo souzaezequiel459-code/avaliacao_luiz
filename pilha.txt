@@ -1,0 +1,1 @@
+Uma pilha em estrutura de dados é uma coleção de itens que segue o princípio LIFO (Last-In, First-Out), ou seja, "o último a entrar é o primeiro a sair

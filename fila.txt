@@ -1,0 +1,1 @@
+é uma estrutura de dados que gerencia itens seguindo o princípio FIFO (First-In, First-Out), que significa "primeiro a entrar, primeiro a sairgit
